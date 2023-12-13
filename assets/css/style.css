@@ -16,3 +16,8 @@ main {
     background-color: #E1F4FF;
 }
 
+.btn-add:hover {
+    color: var(--bs-btn-hover-color);
+    background-color: var(--bs-btn-hover-bg);
+    border-color: var(--bs-btn-hover-border-color);
+}
