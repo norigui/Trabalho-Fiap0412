@@ -1,0 +1,18 @@
+:root {
+    font-family: 'Roboto', sans-serif;
+    font-family: 'Rubik', sans-serif;
+    font-family: 'Viga', sans-serif;
+}
+
+.navbar {
+    background-color: #B8E5FF;
+}
+
+.title {
+    font-size: 3vmax;
+}
+
+main {
+    background-color: #E1F4FF;
+}
+
